@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.vac {
+  font-size: 19px;
+  margin: 0 auto;
+  margin-bottom: 3px;
+}

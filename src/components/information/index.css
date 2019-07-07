@@ -1,0 +1,47 @@
+.vacancies-info {
+  margin-left: 25%;
+  display: inline-block;
+}
+.logo_original {
+  height: 50%;
+  width: 50%;
+  text-align: center;
+}
+.name-info {
+  font-size: 36px;
+  line-height: normal;
+  font-weight: 400;
+  margin: 0 0 15px;
+  padding: 0;
+}
+.corp-info {
+  color: #09f;
+  text-decoration: none;
+  border: 0;
+  background: transparent;
+  font-size: inherit;
+  outline: none;
+}
+.button {
+  display: inline-block;
+  box-sizing: border-box;
+  margin-top: 1%;
+  margin-left: 35%;
+  cursor: pointer;
+  width: 30%;
+  height: 50px;
+  position: relative;
+  padding: 0 15px;
+  border: 1px solid;
+  font-size: 14px;
+  line-height: 36px;
+  color: #fff;
+  border-color: #0f8fee;
+  background-color: #0f8fee;
+}
+.logo_original {
+  margin: 0 auto;
+  margin-left:50%;
+  height: 50%;
+  width: 20%;
+}
